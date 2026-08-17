@@ -9,6 +9,7 @@ A lightweight protocol for a long-running morning coffee routine.
 - Ask: `+1?`
 - Yes: `+`, `要`, `對`, `👍`
 - No: `pass`
+- Either side can pause or resume anytime
 - Coffee delivered: ☕
 - Missed reply: no big deal
 - Try again tomorrow
