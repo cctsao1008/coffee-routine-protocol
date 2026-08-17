@@ -15,6 +15,6 @@ A lightweight protocol for a long-running morning coffee routine.
 
 ## Optional Features
 
-- CAMA blind-box coffee
+- Coffee blind box from rotating cafés ☕
 - Rabbit world tour 🐰🌍
 - Deferred billing ("水費") XD
